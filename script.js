@@ -5,7 +5,7 @@ window.addEventListener("load", function () {
   let navClick;
   const fotolib = {
     home: "images/main.jpg",
-    about: "/images/about-g.jpg",
+    about: "images/about-g.jpg",
     portfolio: "images/portfolio.jpg",
     contacts: "images/contacts.jpg",
   };
